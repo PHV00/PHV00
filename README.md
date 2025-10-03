@@ -17,7 +17,7 @@ I am studying **Software engineering** at **Centro Universitário Católica**.
 
 ### My social networks:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)]([https://www.linkedin.com/in/ruan-carlos-da-silva-8354b1322/](https://www.linkedin.com/in/pedro-vitoreti-73bb47278?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz2%2BagBNwTNabAVJ44NHUfw%3D%3D)) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/pedro-vitoreti-73bb47278/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vitoretipedro/)
 
 ### Tech Stack :computer:
