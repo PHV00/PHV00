@@ -11,7 +11,7 @@
 
 ### About me:
 
-My name is Pedro Henrique Vitoreti, I am 20 years old and I am a **Software Developer**.
+My name is Pedro Henrique Vitoreti, I am 21 years old and I am a **Software Developer**.
 
 I am studying **Software engineering** at **Centro Universitário Católica**.
 
